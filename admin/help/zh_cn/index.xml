@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<help>
+
+  <section id="main">
+    <title>管理中心起始页</title>
+    <content>
+    <![CDATA[
+      <p>系统运行动态。</p>
+
+      <p>点击相应的链接即可迅速进入各项的管理界面.</p>
+    ]]>
+    </content>
+  </section>
+
+</help>

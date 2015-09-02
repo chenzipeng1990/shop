@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<help>
+  <section id="list">
+    <title>商品列表</title>
+    <content>
+    <![CDATA[
+<p>您可以进行如下操作：</p>
+<strong>查询商品</strong>
+<p>称反向排序。</p>
+<strong>快速编辑商品</strong>
+<p>中有一个商品，其名称为“Nokia3310”，您打算把商品名称修改为“Nokia3310手机”。您点击“Nokia3310”后，会出现一个编辑框，里面显示着“Nokia3310按“回车”键）后，商品名称就修改为“Nokia3310手机”了。</p>
+<p>启用的话）等信息。</p>
+<p>”或“否”，您直接点击就可切换。</p>
+<strong>批量编辑、删除商品</strong>
+<p>（参见上面的“查询商品”）。</p>
+<strong>添加商品</strong>
+<p>点击商品列表上方最右边的“添加新商品即可”。</p>
+<strong>编辑、复制、删除商品</strong>
+<p>作即可。</p>
+    ]]>
+    </content>
+  </section>
+  
+  <section id="add">
+    <title>添加新商品</title>
+    <content>
+    <![CDATA[
+<p><strong>通用信息
+</strong></p>
+<ul>
+  <li></li>
+  <li>，扩展分类也是只能选择末级分类。</li>
+  <li>。例如，如果您设置了一个“高级”的等级，折扣率为80，代表这个等级的会员价格默认打8折，那么您添加商品录入本店售价“100”后，该等级的价格自动变成“80”。当然这个价格只是默认值，您也可以修改它。</li>
+  <li>比例”进行计算。当然您也可以修改它。</li>
+  <li>比例”进行计算。当然您也可以修改它。</li>
+  <li>。</li>
+  <li>商品图片和缩略图：如果您的系统支持GD（php。如果您的系统不支持GD。</li>
+</ul>
+<p><strong>详细描述</strong></p>
+<p>可以通过点击“源代码”切换录入格式：html格式和文本格式。</p>
+<p><strong>其他信息</strong></p>
+<ul>
+  <li>货时会增加库存。</li>
+  <li>区域）。</li>
+  <li>不参与送赠品活动，您就可以不勾选该项。</li>
+</ul>
+<p><strong>商品属性</strong></p>
+<p>属性就会列出来。</p>
+<p><strong>商品相册</strong></p>
+<p>如果该商品有多个图片，您可以把它们加入商品相册。</p>
+<p><strong>关联商品</strong></p>
+<p>的名称及链接。</p>
+<p>其他商品找到该商品，您就选择“双向关联”。</p>
+<p>品。</p>
+<p><strong>配件</strong></p>
+<p>品的操作类似，不同的是可以为配件设置价格。</p>
+	]]>
+    </content>
+  </section>
+  
+  <section id="edit">
+    <title>编辑商品</title>
+    <content>
+    <![CDATA[
+参见添加商品
+	]]>
+    </content>
+  </section>
+  
+  <section id="copy">
+    <title>复制商品</title>
+    <content>
+    <![CDATA[
+参见添加商品
+	]]>
+    </content>
+  </section>
+  
+  <section id="trash">
+    <title>商品回收站</title>
+    <content>
+    <![CDATA[
+类似windows面。
+	]]>
+    </content>
+  </section>
+</help>

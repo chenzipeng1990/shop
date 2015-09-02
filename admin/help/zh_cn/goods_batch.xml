@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gbk"?>
+<help>
+  <section id="add">
+    <title>商品批量上传</title>
+    <content>
+    <![CDATA[
+	<p>商品信息。</p>
+	]]>
+    </content>
+  </section>
+</help>

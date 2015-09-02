@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<help>
+
+  <section id="list">
+    <title>模板管理</title>
+    <content>
+    <![CDATA[
+	<p><strong>选取模板</strong></p>
+	<p>激活相应模板。</p>
+	<p><strong>重新安装当前模板</strong></p>
+	<p>才能使修改生效</p>
+	<p><strong>备份当前模板</strong></p>
+	<p>点击“备份当前模板”即可将当前模板打包下载。</p>
+
+	]]>
+    </content>
+  </section>
+
+  <section id="setup">
+    <title>设定模板内容</title>
+    <content>
+    <![CDATA[
+	<p><strong>选取要设置的模板</strong></p>
+	<p>页面显示内容<br />
+	块（即所能显示的库）。
+	</p>
+
+    <p><strong>设置的模板</strong></p>
+	<p>为0，表示它将在该区域排第一位，在显示栏中选择显示。<br />
+	示区域，显示序号，显示类型及显示数量即可。
+	</p>
+
+
+	]]>
+    </content>
+  </section>
+
+  <section id="library">
+    <title>库项目管理</title>
+    <content>
+    <![CDATA[
+	<p><strong>选取要修改的库</strong></p>
+	<p>修改后，需要重新安装当前模板才能使修改生效。</p>
+	<p><strong>修改库</strong></p>
+	<p>库文件采用smarty模板格式。所有smarty标识可用注释符号注释，这样可将库文件拷贝到Dreamweaver中修改。修改完成点击确定就可提交修改内容。<span class="tips">修改内容后要重新安装模板才能使修改效果在前台显示</span></p>
+
+
+	]]>
+    </content>
+  </section>
+
+</help>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<help>
+
+  <section id="list_all">
+    <title>退款申请列表</title>
+    <content>
+    <![CDATA[
+	<p><strong>退款申请列表</strong></p>
+	<p>情”进行进一步处理</p>
+	
+	]]>
+    </content>
+  </section>
+
+  <section id="dispose">
+    <title>退款申请详情</title>
+    <content>
+    <![CDATA[
+	<p><strong>退款申请详情</strong></p>
+	<p>不变。<br/>
+	点击右上角的<a href="repay.php?act=list_all" target="main-frame"><span class="link">退款申请管理</span></a>链接就可回到列表页面
+	</p>
+	
+	]]>
+    </content>
+  </section>
+
+</help>

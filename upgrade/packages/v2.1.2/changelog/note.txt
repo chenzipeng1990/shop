@@ -1,0 +1,1 @@
+如果plugins目录下存在group_buy）
